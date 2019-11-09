@@ -5,7 +5,6 @@ Solutions to some interesting problems.
 The list so far:
 
 'src' contains assignment solutions(Interesting ones)  
-
 'pracs' contains solutions to interesting gfg problems.
 
 /src
