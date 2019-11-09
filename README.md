@@ -11,5 +11,5 @@ The list so far:
 1. tsp.c - Travelling Salesman Problem implemented in C
 
 /pracs  
-  /MS  
-    1. MSbinary.java - Convert a decimal number to binary
+  * /MS  
+    * MSbinary.java - Convert a decimal number to binary
