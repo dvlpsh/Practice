@@ -8,7 +8,7 @@ The list so far:
 'pracs' contains solutions to interesting gfg problems.
 
 /src
-1. tsp.c - Travelling Salesman Problem implemented in C
+* tsp.c - Travelling Salesman Problem implemented in C
 
 /pracs  
   * /MS  
