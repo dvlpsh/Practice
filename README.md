@@ -12,4 +12,5 @@ The list so far:
 
 /pracs  
   * /MS  
-    * MSbinary.java - Convert a decimal number to binary
+    * MSbinary.java - Convert a decimal number to binary  
+    * MSRectOverlp - Check if the rectangle overlap
